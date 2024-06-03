@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### PROJECT VIDEO ###
-https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQVwnfNfXzJDBlGhNdQpCLxWLrN
+https://drive.google.com/file/d/1sG_3NHW_ztOxabMEv6U4ydD1A9Jrzhep/view?usp=sharing
